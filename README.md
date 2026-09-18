@@ -1,3 +1,7 @@
+## Parcours français
+
+Un parcours en quatre chapitres consacré à le teneur de marché à produit constant, les jetons Token-2022 et les frais de pool est disponible dans [docs/fr/](docs/fr/).
+
 # raydium-cp-swap
 
 A revamped constant product AMM program optimized for straightforward pool deployment along with additional features and integrations:
